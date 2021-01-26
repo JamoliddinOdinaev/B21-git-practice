@@ -4,5 +4,7 @@ public class Hello {
 
         System.out.println("B21 future SDET");
         // f,smdnf,asnmfdsdfsfd
+
+        // master is playing role
     }
 }
